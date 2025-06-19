@@ -27,7 +27,7 @@ Belajar menggunakan remote di git
   - git fetch
   - git pull
   
-lalu perbaik kodenya di code editor (ex : visual studio code)
+lalu perbaiki kodenya di code editor (ex : visual studio code)
 
 selesai 
 NB : Cek status repo dengan mengetik git status untuk mengetahui proses apa yang harus dilakukan agar kode siap untuk di-commit
